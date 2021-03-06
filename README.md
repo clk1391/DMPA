@@ -11,6 +11,6 @@ This data is generated from the analytical plasma model of a magnetoshell intera
 [3] _Kelly, C. L., & Little, J. M. (2020). Neutral flow interaction with a magnetic dipole plasma: II. Global modeling. Physics of Plasmas, 27(11), 113511. https://doi.org/10.1063/5.0024268_
 
 ## How to use this data
-The data is provided as a .csv file.  Each row contains a set of input parameters to the model and an output value of effective drag area.  The effective drag area is defined in Equation (3) of [1].  The freestream number density of atomic hydrogen (H) can be related to the atmospheric density using Equation (19) of [1].
+The data is provided as a .csv file.  Each row contains a set of input parameters to the model and an output value of effective drag area.  The effective drag area is defined in Equation (3) of [1].  Cases with a drag area of -1 indicate the model failed to resolve; these cases can be skipped and interpolated around.  The freestream number density of atomic hydrogen (H) can be related to the atmospheric density using Equation (19) of [1].
 
 If you have any questions about the use of this data or suggestions for improvement, contact Charlie Kelly at clk1391@uw.edu.
