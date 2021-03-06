@@ -12,3 +12,5 @@ This data is generated from the analytical plasma model of a magnetoshell intera
 
 ## How to use this data
 The data is provided as a .csv file.  Each row contains a set of input parameters to the model and an output value of effective drag area.  The effective drag area is defined in Equation (3) of [1].  The freestream number density of atomic hydrogen (H) can be related to the atmospheric density using Equation (19) of [1].
+
+If you have any questions about the use of this data or suggestions for improvement, contact Charlie Kelly at clk1391@uw.edu.
