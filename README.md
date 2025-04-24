@@ -13,9 +13,11 @@ This data is generated from the analytical plasma model of a magnetoshell intera
 ## How to use this data
 The data is provided as a .csv file.  Each row contains a set of input parameters to the model and an output value of effective drag area.  The effective drag area is defined in Equation (3) of [1].  The freestream number density of H can be related to the atmospheric density using Equation (19) of [1].
 
-If you have any questions about the use of this data or suggestions for improvement, contact Charlie Kelly at clk1391@uw.edu.
+If you have any questions about the use of this data or suggestions for improvement, contact Charlie Kelly at charleslawsonkelly@gmail.com.
 
 ## Change Log
 *03/02/2021:* Initial commit
 
 *05/26/2021:* Updated data file. Old data file (2021-03-02) is obsolete.
+
+*04/23/2025:* Fixing some links and obsolete info.
